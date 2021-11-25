@@ -1,0 +1,45 @@
+body {
+    background-color: azure;
+    font-family: Helvetica;
+    background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/itCjTBE/light-grey-smooth-waves-pattern-animated-background-motion-graphic-design-video-clip-ultra-hd-4k-3840x2160_bzfpbsqye_thumbnail-1080_01.png");
+}
+div {
+    width: 80%;
+    margin: auto;
+    /* border: 1px dashed rgb(3, 128, 65); */
+}
+header { 
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+}
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: white; 
+    padding-left: 1.5em; 
+}
+#sectionBrushes h2 {
+    background-color: mediumspringgreen;
+}
+#sectionFrames h2 {
+    background-color: lightcoral;
+}
+#sectionPaint h2 {
+    background-color: skyblue;
+}
+h3 {
+    font-size: 22px;
+}
+p {
+    padding-left: 1em;
+}
+span {
+    font-weight: bold;
+    color: blue;
+}
+footer {
+    text-align: center;
+}
